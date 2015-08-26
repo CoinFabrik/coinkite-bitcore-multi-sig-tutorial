@@ -1,0 +1,19 @@
+{
+  "name": "coinkite-bitcore-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "bitcore": "^0.13.0",
+    "coinkite-javascript": "0.0.1",
+    "limiter": "^1.0.5",
+    "request": "^2.61.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "''"
+  },
+  "author": "Fernando Tiberti",
+  "license": "ISC"
+}
